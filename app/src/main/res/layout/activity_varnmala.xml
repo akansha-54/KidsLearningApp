@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Varnmala"
+    android:orientation="vertical"
+    android:background="@android:color/holo_red_dark">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:id="@+id/swar"
+        android:text="swar"
+        android:background="@android:color/holo_orange_light"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/vyajan"
+        android:layout_marginTop="20dp"
+        android:text="vyajan"
+        android:background="@android:color/holo_orange_light"/>
+
+
+</LinearLayout>
